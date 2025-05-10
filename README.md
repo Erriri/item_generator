@@ -7,4 +7,4 @@ After all, it is easier to "make a new magic item that is a light crossbow made 
 Obviously you can't make all of the rolls work out at once, so some details will need to be ignored or changed. But this should be enough to give you an idea. Also I have buttons to reroll things.
 
 
-The rolling tables were made by made or taken out from the 2014 DMG. I go in depth into them in a private google doc, but realistically this thingie is just for me and my friend, so whatever, you don't get the doc >:3
+The rolling tables were made by me or taken out of the 2014 DMG. I go in depth into them in a private google doc, but realistically this thingie is just for me and my friend, so whatever, you don't get the doc >:3
